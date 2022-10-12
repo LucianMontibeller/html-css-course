@@ -4,4 +4,5 @@
 
 ### Layout até o momento.
 
-![Screenshot_20221012_145743](https://user-images.githubusercontent.com/49838170/195414730-0eaa9f7c-49db-4c66-b418-14e5d5ca7347.png)
+
+![Screenshot_20221012_190944](https://user-images.githubusercontent.com/49838170/195457408-ad1f3742-31b0-420f-be27-29d9c598d2d7.png)
